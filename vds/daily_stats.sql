@@ -1,0 +1,1 @@
+select * from sf.daily_weather_stats

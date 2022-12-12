@@ -1,0 +1,1 @@
+SELECT * FROM Samples."samples.dremio.com"."NYC-taxi-trips-iceberg" limit 5000
